@@ -4,6 +4,10 @@ Creating a new conda environment is recommended to run the codes in jupyter note
 
 ```conda create -n polya python=3.7 jupyterlab```
 
-The following command will install `polya` package and also other requirements. 
+You should activate the conda environment before installing Python packages.
+
+```conda activate polya``` 
+
+The following command will install the `polya` package and other requirements. 
 
 ```pip install -e .```
