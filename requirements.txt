@@ -6,4 +6,4 @@ pandas==0.24.2
 seaborn
 numpy
 scipy
-yaml
+pyyaml
