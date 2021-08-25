@@ -1,0 +1,7 @@
+xtick.major.size: 2
+ytick.major.size: 2
+xtick.minor.size: 2
+ytick.minor.size: 2
+xtick.major.width: 0.5
+ytick.major.width: 0.5
+
