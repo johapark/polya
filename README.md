@@ -1,4 +1,4 @@
-This repository provides codes for reproducing some key results from the manuscript titled "LARP1 decelerates deadenylation by forming a ternary complex with poly(A) and PABP"
+This repository provides codes for reproducing some key results from the manuscript titled "Short poly(A) tails are protected from deadenylation by the LARP1-PABP complex"
 
 Creating a new conda environment is recommended to run the codes in jupyter notebooks. 
 
